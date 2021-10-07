@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Careless-Caramel
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently persuing a self study on Data and Science, which is equal to Data Science ;)
-- 💞️ I’m looking to collaborate on data. 
-- 📫 How to reach me - carelesscaramel2006@gmail.com
+Practicing EDA on Polish Bankruptsy Dataset
